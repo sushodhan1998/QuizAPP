@@ -23,7 +23,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 			),
 		externalDocs = @ExternalDocumentation(
 				description = "You can find the link below for the git hub repository",
-				url = "www.github.com"
+				url = "https://github.com/sushodhan1998/QuizAPP/tree/main/quiz-service/quiz-service/src/main/java/com/sush/quizservice"
 		)
 
 )
