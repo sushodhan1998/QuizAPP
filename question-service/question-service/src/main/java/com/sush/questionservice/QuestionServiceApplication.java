@@ -20,7 +20,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 ),
 		externalDocs = @ExternalDocumentation(
 				description = "You can find the link below for the git hub repository",
-				url = "www.github.com"
+				url = "https://github.com/sushodhan1998/QuizAPP/tree/main/question-service/question-service"
 		)
 
 )
